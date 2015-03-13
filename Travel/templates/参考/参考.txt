@@ -1,0 +1,10 @@
+visitor.html
+
+color:
+	1、panel-success----绿色
+	2、panel-info-------蓝色
+	3、panel-warning----橙色
+	4、panel-primary----普通
+
+
+
